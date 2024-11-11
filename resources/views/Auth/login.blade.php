@@ -29,9 +29,6 @@
                     <label for="remember-me" class="text-dark"></label><br>
                     <input type="submit" name="submit" class="btn btn-dark btn-md " value="Login">
                 </div>
-                <div class="text-right mt-2">
-                    <a href="/login" class="text-dark">Reister here</a>
-                </div>
             </form>
         </div>
     </div>
